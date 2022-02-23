@@ -2,6 +2,8 @@
 <h3 align="center">I'm trying to be a frontend developer</h3>
 <h3 align="center">Welcome to my Github</h3>
 
+![Profile views](https://gpvc.arturio.dev/PROHZGOD)
+
 ![I am a front-end developer](https://images.unsplash.com/photo-1645624364586-2a12e00fd2d9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1371&q=80)
 
 
@@ -17,6 +19,6 @@ Skills: REACT / JS / HTML / CSS / JAVA
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PROHZGOD)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PROHZGOD&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PROHZGOD)  
 
-![Profile views](https://gpvc.arturio.dev/PROHZGOD)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prohzgod&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
