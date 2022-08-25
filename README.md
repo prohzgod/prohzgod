@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Tuấn Anh (prohzgod)</h1>
+<h1 align="center">Hi 👋, I'm Tuấn Anh (Alfred)</h1>
 <h3 align="center">I'm trying to be a frontend developer</h3>
 <h3 align="center">Welcome to my Github</h3>
 <div align="center"> 
  
  ![Profile views](https://gpvc.arturio.dev/PROHZGOD)
-<h3 align="center">Skills: ReactJS / Javascript / HTML / CSS / Java</h3>
+<h3 align="center">Skills: ReactJS / Angular / /TypeScript / Javascript / HTML / CSS / Java</h3>
 🔭 I’m currently working on this page. 
 🌱 I’m currently learning web developer. 
 <!--  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PROHZGOD)  
