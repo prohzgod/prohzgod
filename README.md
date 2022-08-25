@@ -4,7 +4,7 @@
 <div align="center"> 
  
  ![Profile views](https://gpvc.arturio.dev/PROHZGOD)
-<h3 align="center">Skills: ReactJS / Angular / /TypeScript / Javascript / HTML / CSS / Java</h3>
+<h3 align="center">Skills: ReactJS / Angular / TypeScript / Javascript / HTML / CSS / Java</h3>
 🔭 I’m currently working on this page. 
 🌱 I’m currently learning web developer. 
 <!--  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PROHZGOD)  
