@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tuấn Anh (Alfred)</h1>
-<h3 align="center">I'm trying to be a frontend developer</h3>
 <h3 align="center">Welcome to my Github</h3>
 <div align="center"> 
  
